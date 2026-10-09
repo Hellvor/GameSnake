@@ -84,4 +84,15 @@ Place your copy of `mgba_libretro.dll` inside the `mGBA Core` folder.
 python GameSnake.py
 ```
 
-A file picker will appear allowing you to select a Game Boy, Game Boy Color, or Game Boy Advance ROM
+A file picker will appear allowing you to select a Game Boy, Game Boy Color, or Game Boy Advance ROM.
+
+### DISCLAIMER:
+
+GameSnake does not include:
+
+- ROMs
+- Libretro cores
+
+Users are responsible for obtaining these separately, AND LEGALLY. 
+We do not do a piracy. 
+Not in this GitHub repo.
