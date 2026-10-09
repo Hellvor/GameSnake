@@ -88,11 +88,8 @@ A file picker will appear allowing you to select a Game Boy, Game Boy Color, or 
 
 ### DISCLAIMER:
 
-GameSnake does not include:
-
-- ROMs
-- Libretro cores
-
-Users are responsible for obtaining these separately, AND LEGALLY. 
+GameSnake does not include ROMs.
+Users are responsible for obtaining these separately.
+AND LEGALLY. 
 We do not do a piracy. 
 Not in this GitHub repo.
