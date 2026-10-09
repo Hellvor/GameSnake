@@ -62,7 +62,7 @@ cd GameSnake
 ### Install Dependencies
 
 ```bash
-pip install pygame numpy libretro
+pip install pygame-ce numpy libretro
 ```
 
 ### Core Setup
