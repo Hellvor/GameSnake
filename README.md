@@ -76,7 +76,7 @@ GameSnake/
     └── mgba_libretro.dll
 ```
 
-Place your copy of `mgba_libretro.dll` inside the `mGBA Core` folder.
+Place your copy of `mgba_libretro.dll` inside the `mGBA Core` folder (Or use the included one, might not be up to date tho)
 
 ### Running
 
